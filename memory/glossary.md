@@ -83,3 +83,4 @@ Workplace shorthand, acronyms and document codes for Eppor-Pack.
 | Codename | Project |
 |----------|---------|
 | Social compliance review | Full review of ESG-01 to ESG-08 and CSR-01 to CSR-32. See memory/projects/eppor-pack-social-compliance.md |
+
